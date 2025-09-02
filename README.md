@@ -39,7 +39,7 @@
 ---
 ## 🏆 Codewars Stats
 ![Nikita's Codewars](https://www.codewars.com/users/winston1311/badges/large) 
-7 kyu is not a sentence. More to come! 🚀💪
+
 
 ![Keep Coding GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FkamV2YjQzZTF4YnJhYnZ6MWppYmEyaWJ1eGo2eXJ1eWFyejUzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lW6YSh8LVkaUhNnIfi/giphy.gif)
 
